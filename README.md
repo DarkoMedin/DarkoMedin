@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DarkoMedin
-- 👀 Im a Data Scientist with interests in MAchine Learning, Bayesian methods and Deep Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Data Science 
+- 👀 Im a Data Scientist with interests in Machine Learning and Statistical methods.
+- 🌱 I’m currently mentoring in different areas of Data Science.
+- 💞️ I’m looking to collaborate on Data Science .
 - 📫 How to reach me - darkomedin@gmail.com
 
 <!---
